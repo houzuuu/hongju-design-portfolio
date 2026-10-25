@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 414 136" fill="none">
+  <title>hongju</title>
+  <g stroke="#151515" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 12V91M10 61C10 22 66 22 66 61V91"/>
+    <path d="M137 62C137 23 80 23 80 62C80 101 137 101 137 62Z"/>
+    <path d="M153 91V61C153 22 209 22 209 61V91"/>
+    <path d="M252 91C233 91 223 79 223 62C223 23 279 23 279 62V103C279 121 267 131 251 131"/>
+    <path d="M304 34V103C304 120 294 131 280 131M304 13V14"/>
+    <path d="M329 34V65C329 100 385 100 385 65V34M385 65C385 82 395 90 406 91"/>
+  </g>
+</svg>
