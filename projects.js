@@ -198,11 +198,6 @@ window.portfolioProjects = [
         null
       ],
       [
-        "images/starfield-2025-summer-02-key-visual.webp",
-        "Key visual\n협업 아트워크의 역동적인 장면을 세로형 키비주얼에 맞춰 재구성하였습니다.",
-        ""
-      ],
-      [
         "images/starfield-2025-summer-04-exterior.webp",
         "",
         null
@@ -353,11 +348,6 @@ window.portfolioProjects = [
         "images/starfield-2024-summer-01-hero.webp",
         "",
         null
-      ],
-      [
-        "images/starfield-2024-summer-02-key-visual.webp",
-        "Key visual\n작가의 회화적인 바다와 구름 이미지를 세로형 키비주얼과 메시지 구조로 확장하였습니다.",
-        ""
       ],
       [
         "images/starfield-2024-summer-04-exterior.webp",
