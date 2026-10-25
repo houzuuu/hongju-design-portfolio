@@ -105,3 +105,8 @@ Edit this exact image with ONE change only: remove the large black 'Color System
 - Moved project website links from bottom credits to the introduction above the first image.
 - Mobile archive uses one column through the 700px mobile breakpoint.
 - Selected-work Korean type increased from 14.67px to 16px, with description line height reduced to 1.2.
+
+
+## 2026-10-25 — Summer ISP gallery cleanup
+- Removed the second key-visual image and its caption from STARFIELD 2025 Summer ISP and STARFIELD 2024 Summer ISP.
+- The first images and remaining gallery sequence are retained.
