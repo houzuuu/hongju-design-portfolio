@@ -110,3 +110,8 @@ Edit this exact image with ONE change only: remove the large black 'Color System
 ## 2026-10-25 — Summer ISP gallery cleanup
 - Removed the second key-visual image and its caption from STARFIELD 2025 Summer ISP and STARFIELD 2024 Summer ISP.
 - The first images and remaining gallery sequence are retained.
+
+
+## 2026-10-25 — Editorial wordmark selected
+- Applied option 01 Editorial as an outlined, font-independent SVG in the shared header.
+- Navigation weight reduced from 500 to 400 on desktop and mobile.
