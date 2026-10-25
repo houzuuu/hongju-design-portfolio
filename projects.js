@@ -764,7 +764,7 @@ window.portfolioProjects = [
         null
       ],
       [
-        "images/eyev-color-system-v2.png",
+        "images/eyev-color-system-board.png",
         "Color System\n눈의 정보 전달 매개체인 빛을 구성하는 3원색에 기반하여 삼색 가산혼합으로 만들어진 Pure White와 감산혼합의 Black이 사용되며, 서브 컬러는 3원색과 인접 색상으로 구성된 6색의 그라데이션 컬러로 사용되어 아이브의 아이덴티티를 전달합니다.",
         null
       ],
