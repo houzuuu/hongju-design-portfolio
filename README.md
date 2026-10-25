@@ -4,7 +4,7 @@ Brand and graphic design portfolio by Hongju Yoon.
 
 [Visit the portfolio](https://houzuuu.github.io/hongju-design-portfolio/)
 
-A minimal editorial portfolio with five selected works, a three-column visual archive, 19 project case studies and About.
+A minimal editorial portfolio with four selected works, a three-column visual archive, 19 project case studies and About.
 
 ## Local preview
 

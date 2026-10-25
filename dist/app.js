@@ -1,6 +1,6 @@
 const allProjects=window.portfolioProjects;
 const esc=value=>String(value??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const selectedSlugs=['hotel-yoon','eyev','starfield-2025-winter-isp','village-culture-day','gift'];
+const selectedSlugs=['hotel-yoon','eyev','starfield-2025-winter-isp','gift'];
 const number=i=>String(i+1).padStart(2,'0');
 const projectNotes={
   'hotel-yoon':'Turning a moment of recovery into a complete brand experience.',

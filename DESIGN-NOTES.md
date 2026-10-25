@@ -94,3 +94,8 @@ Use case: infographic-diagram. Asset type: EYEV brand Color System image for a g
 
 ### Edit prompt
 Edit this exact image with ONE change only: remove the large black 'Color System' heading at the very top left, replacing just its letters with the same clean white background. Preserve the entire original canvas dimensions, layout, all other text, all swatches, exact colors and every hex code, margins, and the bottom gradient unchanged. Do not move or resize any other element. Keep the small 'Main Color', 'Sub Color', and 'Gradient' labels and all EYEV BLACK / EYEV PURE WHITE labels. The vacated heading space should simply remain white, with no replacement text. No other edits.
+
+
+## 2026-10-25 — Selected work reduced to four
+- Removed Village Culture Day from the selected-work sequence at the user's request.
+- Updated selected count and documentation to four; retained the project in All projects and its detail page.
