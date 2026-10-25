@@ -2,7 +2,7 @@
 
 Brand and graphic design portfolio by Hongju Yoon.
 
-[Visit the portfolio](https://hongju-editorial-portfolio.houzuuu.chatgpt.site/)
+[Visit the portfolio](https://houzuuu.github.io/hongju-design-portfolio/)
 
 A minimal editorial portfolio with five selected works, a three-column visual archive, 19 project case studies and About.
 
@@ -32,3 +32,13 @@ node tests/text-reveal.test.cjs
 - `dist/images`, `dist/videos` — portfolio artwork
 
 All portfolio artwork and brand assets belong to their respective owners.
+
+## GitHub Pages deployment
+
+The live site is served from the root of the `gh-pages` branch, generated from `dist/`.
+
+```sh
+git subtree split --prefix dist -b pages-update
+git push origin pages-update:gh-pages
+git branch -D pages-update
+```
