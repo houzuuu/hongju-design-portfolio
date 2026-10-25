@@ -40,7 +40,7 @@
 @media(min-width:1800px){.detail-description{margin-left:var(--gutter)}}
 @media(max-width:800px){#detail-view{padding-top:24px;padding-bottom:48px}.detail-hero,.detail-gallery,.detail-bottom-nav{width:calc(100% - 2 * var(--gutter))}.detail-hero img,.detail-hero video{max-height:none}.detail-description{width:auto;max-width:none;margin:28px var(--gutter) 40px}.detail-title{font-size:25px}.detail-date{font-size:14px;margin-bottom:24px}.detail-copy{font-size:17px;line-height:1.7}.detail-facts{grid-template-columns:85px minmax(0,1fr);gap:9px 15px}.detail-gallery{gap:18px}.detail-side-nav{display:none}.detail-bottom-nav{margin-top:40px}.detail-bottom-nav strong{font-size:20px}}
 
-/* Custom monoline hongju wordmark, shared by home and project pages. */
+/* Shared hongju wordmark, used on home and project pages. */
 .header .wordmark{width:134px;max-width:none;line-height:0;letter-spacing:0}
 .wordmark img{width:100%;height:auto;display:block}
 /* Reference project information strip: title / specifications / narrative. */
@@ -134,7 +134,7 @@ body:not(.viewing-work) footer{border-top:0}
 @media(hover:none){.archive-caption{position:absolute;inset:0;background:rgba(0,0,0,.4);color:#fff;opacity:0}.archive-card{aspect-ratio:16/9}.archive-cover{width:100%;height:100%}.archive-card:hover .archive-caption{opacity:0}.archive-card:focus-visible .archive-caption{opacity:1}}
 
 /* Stronger navigation and precise bilingual description alignment. */
-.header nav{font-size:clamp(15px,1.05vw,21px);font-weight:500}
+.header nav{font-size:clamp(15px,1.05vw,21px);font-weight:400}
 .archive{padding-top:48px}
 @media(min-width:701px){.project-korean{position:relative}.project-local-note{position:absolute;left:0;right:0;top:var(--local-note-top,6em);margin:0}}
 .archive-caption .archive-name{max-width:30ch;line-height:1.3}
