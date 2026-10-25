@@ -24,6 +24,7 @@ for(let i=0;i<projects.length;i++){
   assert.ok(html.includes(`href="#project/${projects[(i+1)%projects.length].slug}"`));
   assert.ok(html.includes(`href="#project/${projects[(i-1+projects.length)%projects.length].slug}"`));
   assert.equal(html.includes('class="detail-gallery"'),p.images.length>1);
+  if(p.website){assert.ok(html.indexOf(`href="${p.website}"`)<html.indexOf('class="detail-hero"'));assert.equal((html.match(/Visit website/g)||[]).length,1);}
   if(p.contribution)assert.ok(html.includes(vm.runInContext(`esc(${JSON.stringify(p.contribution)})`,context)));
 }
 console.log('Passed: all 19 project pages preserve media/captions/contributions, compact project introduction before full-width media, video controls, single-media layout and wrapping previous/next navigation.');

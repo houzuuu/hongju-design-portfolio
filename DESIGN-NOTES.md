@@ -99,3 +99,9 @@ Edit this exact image with ONE change only: remove the large black 'Color System
 ## 2026-10-25 — Selected work reduced to four
 - Removed Village Culture Day from the selected-work sequence at the user's request.
 - Updated selected count and documentation to four; retained the project in All projects and its detail page.
+
+
+## 2026-10-25 — Website links and mobile refinements
+- Moved project website links from bottom credits to the introduction above the first image.
+- Mobile archive uses one column through the 700px mobile breakpoint.
+- Selected-work Korean type increased from 14.67px to 16px, with description line height reduced to 1.2.

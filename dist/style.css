@@ -149,3 +149,7 @@ body:not(.viewing-work) footer{border-top:0}
 /* Captions share the project introduction's horizontal starting point. */
 .detail-hero figcaption,.detail-gallery figcaption{width:50%;max-width:none;margin-left:auto;margin-right:0;padding:18px 0 28px}
 @media(max-width:700px){.detail-hero figcaption,.detail-gallery figcaption{width:100%;margin-left:0;padding:14px 0 22px}}
+
+/* Website access belongs with the project introduction. */
+.detail-website{font-size:14px;line-height:1.5;margin:22px 0 0}
+@media(max-width:700px){.archive-list{grid-template-columns:minmax(0,1fr)}.project-korean{font-size:16px}.project-local-title{line-height:1.15}.project-local-note{line-height:1.2}}
