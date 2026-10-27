@@ -41,7 +41,7 @@
 @media(max-width:800px){#detail-view{padding-top:24px;padding-bottom:48px}.detail-hero,.detail-gallery,.detail-bottom-nav{width:calc(100% - 2 * var(--gutter))}.detail-hero img,.detail-hero video{max-height:none}.detail-description{width:auto;max-width:none;margin:28px var(--gutter) 40px}.detail-title{font-size:25px}.detail-date{font-size:14px;margin-bottom:24px}.detail-copy{font-size:17px;line-height:1.7}.detail-facts{grid-template-columns:85px minmax(0,1fr);gap:9px 15px}.detail-gallery{gap:18px}.detail-side-nav{display:none}.detail-bottom-nav{margin-top:40px}.detail-bottom-nav strong{font-size:20px}}
 
 /* Shared hongju wordmark, used on home and project pages. */
-.header .wordmark{width:134px;max-width:none;line-height:0;letter-spacing:0}
+.header .wordmark{width:120px;max-width:none;line-height:0;letter-spacing:0}
 .wordmark img{width:100%;height:auto;display:block}
 /* Reference project information strip: title / specifications / narrative. */
 #detail-view{font-family:inherit;padding-top:12px}
@@ -53,8 +53,8 @@
 .detail-description .process-note{margin-top:24px}.detail-description .process-note h2,.detail-description .process-note p{font-size:14px;line-height:1.65}
 .detail-hero{margin-bottom:24px}.detail-hero figcaption,.detail-gallery figcaption{font-family:inherit;font-size:16px;line-height:1.7}
 @media(max-width:1000px) and (min-width:701px){.detail-description{grid-template-columns:minmax(0,22%) minmax(0,31%) minmax(0,1fr);gap:20px;font-size:16px}.detail-description .detail-facts{grid-template-columns:1fr;gap:3px}.detail-facts dd{margin-bottom:10px}}
-@media(max-width:700px){.header .wordmark{width:80px}.detail-description{grid-template-columns:minmax(0,1fr);gap:22px;margin:28px var(--gutter) 36px;padding-top:12px;font-size:16px}.detail-description .detail-title{font-size:20px}.detail-description .detail-facts{grid-template-columns:85px minmax(0,1fr);font-size:13px}.detail-spec{margin-bottom:16px}.detail-hero{margin-bottom:18px}}
-@media(max-width:370px){.header .wordmark{width:68px}}
+@media(max-width:700px){.header .wordmark{width:72px}.detail-description{grid-template-columns:minmax(0,1fr);gap:22px;margin:28px var(--gutter) 36px;padding-top:12px;font-size:16px}.detail-description .detail-title{font-size:20px}.detail-description .detail-facts{grid-template-columns:85px minmax(0,1fr);font-size:13px}.detail-spec{margin-bottom:16px}.detail-hero{margin-bottom:18px}}
+@media(max-width:370px){.header .wordmark{width:61px}}
 
 /* A quiet directional hover cue preserves the original text colors. */
 .text-project::after{content:'';position:absolute;left:0;right:0;bottom:20px;height:1px;background:var(--ink);transform:scaleX(0);transform-origin:left;transition:transform .35s var(--ease);pointer-events:none}
